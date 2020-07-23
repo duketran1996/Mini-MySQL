@@ -1,7 +1,0 @@
-field1,field2,field3,
-data99,data10,data3,
-data8,data5,data6,
-data7,data8,data9,
-data88,data55,(null),
-(null),(null),(null),
-(null),(null),(null),
